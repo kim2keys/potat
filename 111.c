@@ -3,7 +3,6 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello world!\n");
     char name[255];
 
     printf("Enter your name: ");
@@ -13,4 +12,5 @@ int main(int argc, char **argv)
 
     printf("Hello %s!\n", name);
     return 0;
-Щелчок }
+Щелчок }}
+
